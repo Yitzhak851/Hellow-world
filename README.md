@@ -1,4 +1,4 @@
-# Practice_on_Python
+# Practice on python
 
 in this project i learn to develop with python :)
 
