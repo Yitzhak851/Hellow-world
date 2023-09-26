@@ -3,4 +3,4 @@
 
 
 
-Enter three digits (each digit for one pig):
+# Enter three digits (each digit for one pig):
