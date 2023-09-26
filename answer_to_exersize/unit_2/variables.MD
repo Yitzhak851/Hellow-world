@@ -45,3 +45,6 @@ logic statement:
 brothers_num = 4
 is_big_family = (brothers_num > 20)
 [is_big_family = False]
+
+>>> PI = 3.14
+>>> BOOK_AUTHOR = "Christian Andersen"

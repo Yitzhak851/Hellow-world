@@ -30,3 +30,11 @@ Hello Pinocchio!
 >>> num = str(num)
 >>> num
 '4.0'
+
+>>> where_peter_pan = 'neverland'
+>>> where_snow_white = 'forest'
+>>> where_peter_pan, where_snow_white = where_snow_white, where_peter_pan
+
+>>> var1 = 1
+>>> var2 = 2
+>>> var1, var2 = var2, var1
