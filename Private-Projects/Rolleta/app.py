@@ -1,7 +1,7 @@
 import this
 import random
 
-print("Welcome to cala game Rolleta")
+print("Welcome to calculate game Rolleta")
 START_VALUE = input("Enter the first coin you start(at integer number): ")
 HOU_MANY_STEPS = input("Enter the number of steps")
 
