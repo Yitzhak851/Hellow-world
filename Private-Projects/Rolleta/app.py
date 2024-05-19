@@ -10,7 +10,7 @@ Using random.shuffle() function
 
 result = input("Enter three digits (each digit for one pig): ")
 
-
+// add small note
 hundreds = result // 100
 print(hundreds)
 tens = result % 100
